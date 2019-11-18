@@ -140,6 +140,7 @@ namespace SmartHouse
                 garaje = 0;
                 PicGaraje.Image = Image.FromFile("off-128.png");
             }
+           
         }
     }
 }
