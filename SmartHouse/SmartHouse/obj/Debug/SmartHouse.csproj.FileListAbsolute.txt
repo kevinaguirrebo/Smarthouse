@@ -1,0 +1,10 @@
+C:\Users\Luis Amigó\source\repos\SmartHouse\SmartHouse\bin\Debug\SmartHouse.exe.config
+C:\Users\Luis Amigó\source\repos\SmartHouse\SmartHouse\bin\Debug\SmartHouse.exe
+C:\Users\Luis Amigó\source\repos\SmartHouse\SmartHouse\bin\Debug\SmartHouse.pdb
+C:\Users\Luis Amigó\source\repos\SmartHouse\SmartHouse\obj\Debug\SmartHouse.Form1.resources
+C:\Users\Luis Amigó\source\repos\SmartHouse\SmartHouse\obj\Debug\SmartHouse.Properties.Resources.resources
+C:\Users\Luis Amigó\source\repos\SmartHouse\SmartHouse\obj\Debug\SmartHouse.csproj.GenerateResource.cache
+C:\Users\Luis Amigó\source\repos\SmartHouse\SmartHouse\obj\Debug\SmartHouse.csproj.CoreCompileInputs.cache
+C:\Users\Luis Amigó\source\repos\SmartHouse\SmartHouse\obj\Debug\SmartHouse.exe
+C:\Users\Luis Amigó\source\repos\SmartHouse\SmartHouse\obj\Debug\SmartHouse.pdb
+C:\Users\Luis Amigó\source\repos\SmartHouse\SmartHouse\obj\Debug\SmartHouse.csprojAssemblyReference.cache
